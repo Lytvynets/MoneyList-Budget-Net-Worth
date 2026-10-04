@@ -64,7 +64,7 @@ struct AccountsView: View {
         }
         .sheet(isPresented: $showAddAccount) { AddAccountView() }
         .sheet(item: $editingAccount) { account in AddAccountView(editingAccount: account) }
-        .sheet(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
+        .fullScreenCover(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
     }
     
     private func tapAdd() {
@@ -121,9 +121,6 @@ struct AddAccountView: View {
                     typePicker
                     styledField(title: "Account name") {
                         TextField("e.g. Cash,bank", text: $name)
-                            .onChange(of: name) { _, newValue in
-                                if newValue.count > 50 { name = String(newValue.prefix(50)) }
-                            }
                             .font(FinoraFont.body)
                             .foregroundStyle(FinoraColor.textPrimary)
                     }

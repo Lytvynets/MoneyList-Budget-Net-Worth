@@ -110,7 +110,7 @@ struct CapitalView: View {
         .tabBarSafeArea()
         .background(FinoraColor.background)
         .sheet(isPresented: $showAddAsset) { AddAssetView() }
-        .sheet(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
+        .fullScreenCover(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
     }
 
     private func assetGroupCard(_ group: AssetGroup) -> some View {

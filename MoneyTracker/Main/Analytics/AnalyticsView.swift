@@ -83,7 +83,8 @@ struct BudgetsContentView: View {
                             subtitle: "Set a monthly limit per category to see your progress here.",
                             buttonTitle: "New budget"
                         ) { tapAddBudget() }
-                            .padding(.top)
+                            .padding()
+                            .padding(.top, 55)
                     }
                 } else {
                     ForEach(thisMonthBudgets) { budget in
@@ -103,7 +104,7 @@ struct BudgetsContentView: View {
         .background(FinoraColor.background)
         .sheet(isPresented: $showAddBudget) { AddBudgetView() }
         .sheet(item: $editingBudget) { budget in AddBudgetView(editingBudget: budget) }
-        .sheet(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
+        .fullScreenCover(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
         
     }
 

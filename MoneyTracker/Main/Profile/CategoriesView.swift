@@ -74,7 +74,7 @@ struct CategoriesView: View {
             }
         }
         .sheet(isPresented: $showAddCategory) { AddCategoryView(defaultKind: kind) }
-        .sheet(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
+        .fullScreenCover(isPresented: $showPaywall) { PaywallView(onDismiss: { showPaywall = false }) }
         
         
     }
@@ -181,9 +181,6 @@ struct AddCategoryView: View {
                 
                 Section("Category name") {
                     TextField("Enter category name", text: $name)
-                        .onChange(of: name) { _, newValue in
-                            if newValue.count > 50 { name = String(newValue.prefix(50)) }
-                        }
                 }
             }
             .navigationTitle("Add New Category")
