@@ -1,0 +1,6714 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ a month to finish by %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ на місяць, щоб устигнути до %@"
+          }
+        }
+      }
+    },
+    "%@ is at %lld%%" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«%@»: використано %lld%%"
+          }
+        }
+      }
+    },
+    "%@ is down %lld%% on last month — %@ so far." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«%@»: на %lld%% менше, ніж минулого місяця, — поки що %@."
+          }
+        }
+      }
+    },
+    "%@ is due today." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ очікується сьогодні."
+          }
+        }
+      }
+    },
+    "%@ is over budget" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«%@»: бюджет перевищено"
+          }
+        }
+      }
+    },
+    "%@ is up %lld%% on last month at this point (%@ so far)." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«%@»: на %lld%% більше, ніж минулого місяця на цей день (уже %@)."
+          }
+        }
+      }
+    },
+    "%@ is your priciest day — about %@ on average." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Найдорожчий день тижня — %@: у середньому близько %@."
+          }
+        }
+      }
+    },
+    "%@ on %@." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — %@."
+          }
+        }
+      }
+    },
+    "%lld days in a row without spending." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day in a row without spending."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days in a row without spending."
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld дні поспіль без витрат."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld днів поспіль без витрат."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld день поспіль без витрат."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld дня поспіль без витрат."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld days left" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day left"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days left"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишилося %lld дні"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишилося %lld днів"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишився %lld день"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишилося %lld дня"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld days this month without any spending." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day this month without any spending."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days this month without any spending."
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld дні цього місяця без жодних витрат."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld днів цього місяця без жодних витрат."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld день цього місяця без жодних витрат."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld дня цього місяця без жодних витрат."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld duplicates skipped." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld duplicate skipped."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld duplicates skipped."
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Пропущено %lld дублікати."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Пропущено %lld дублікатів."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Пропущено %lld дублікат."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Пропущено %lld дубліката."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld entries" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld entry"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld entries"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld записи"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld записів"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld запис"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld запису"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld new categories created." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld new category created."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld new categories created."
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Створено %lld нові категорії."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Створено %lld нових категорій."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Створено %lld нову категорію."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Створено %lld нової категорії."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld quiet days this month." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld quiet day this month."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld quiet days this month."
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld тихі дні цього місяця."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld тихих днів цього місяця."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld тихий день цього місяця."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld тихого дня цього місяця."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "0" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "1 day before" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За 1 день"
+          }
+        }
+      }
+    },
+    "1M" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1М"
+          }
+        }
+      }
+    },
+    "1Y" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1Р"
+          }
+        }
+      }
+    },
+    "2 days before" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За 2 дні"
+          }
+        }
+      }
+    },
+    "3 days before" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За 3 дні"
+          }
+        }
+      }
+    },
+    "3 months" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 місяці"
+          }
+        }
+      }
+    },
+    "3M" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3М"
+          }
+        }
+      }
+    },
+    "4.50" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "45"
+          }
+        }
+      }
+    },
+    "6M" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6М"
+          }
+        }
+      }
+    },
+    "A blank page" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чиста сторінка"
+          }
+        }
+      }
+    },
+    "A daily allowance that adjusts as you spend." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Денний ліміт, що підлаштовується під ваші витрати."
+          }
+        }
+      }
+    },
+    "A few seconds now keeps your daily allowance honest." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кілька секунд зараз — і денний ліміт буде точним."
+          }
+        }
+      }
+    },
+    "A fresh page" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова сторінка"
+          }
+        }
+      }
+    },
+    "A monthly spending plan" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Місячний план витрат"
+          }
+        }
+      }
+    },
+    "A new version of Money List is available." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доступна нова версія Money List."
+          }
+        }
+      }
+    },
+    "A one-time in-app purchase tied to your Apple Account. Restore it on any of your devices." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разова покупка в застосунку, прив’язана до вашого облікового запису Apple. Її можна відновити на будь-якому вашому пристрої."
+          }
+        }
+      }
+    },
+    "A quiet nudge at 9 pm to note the day." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тихе нагадування о 21:00 записати витрати дня."
+          }
+        }
+      }
+    },
+    "A trip to Lisbon" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подорож до Лісабона"
+          }
+        }
+      }
+    },
+    "A trip, a laptop, a safety cushion. Set a target and Money List shows when you'll get there." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подорож, ноутбук, фінансова подушка. Задайте суму — і Money List покаже, коли ви її досягнете."
+          }
+        }
+      }
+    },
+    "A week before" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За тиждень"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приблизно"
+          }
+        }
+      }
+    },
+    "Accent" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Акцент"
+          }
+        }
+      }
+    },
+    "Account" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рахунок"
+          }
+        }
+      }
+    },
+    "Account balance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Баланс рахунку"
+          }
+        }
+      }
+    },
+    "Accounts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рахунки"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додати"
+          }
+        }
+      }
+    },
+    "Add a bill" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додати платіж"
+          }
+        }
+      }
+    },
+    "Add a budget" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додати бюджет"
+          }
+        }
+      }
+    },
+    "Add a ticker symbol to get live prices." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додайте тікер, щоб отримувати ринкові ціни."
+          }
+        }
+      }
+    },
+    "Add an account first." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спершу додайте рахунок."
+          }
+        }
+      }
+    },
+    "Add an amount" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додайте суму"
+          }
+        }
+      }
+    },
+    "Add money" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додати гроші"
+          }
+        }
+      }
+    },
+    "Add rent, subscriptions or salary once. Money List records them on the day (or asks first, if you prefer) and can remind you beforehand." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додайте оренду, підписки чи зарплату один раз. Money List записуватиме їх у потрібний день (або спершу питатиме, якщо хочете) і може нагадати заздалегідь."
+          }
+        }
+      }
+    },
+    "Add the action “Log Purchase” from Money List." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додайте дію «Записати покупку» з Money List."
+          }
+        }
+      }
+    },
+    "Add what you own. Stocks and crypto update with live prices; for anything else you set the value." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додайте те, чим володієте. Акції та крипта оновлюються за ринковими цінами, для решти вартість задаєте ви."
+          }
+        }
+      }
+    },
+    "Added again for today" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додано ще раз на сьогодні"
+          }
+        }
+      }
+    },
+    "Added to your ledger on the day." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додається в журнал у потрібний день."
+          }
+        }
+      }
+    },
+    "Adds an entry from one line of text, such as “coffee 4.50” or “+2000 salary”." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додає запис з одного рядка тексту, наприклад «кава 45» або «+20000 зарплата»."
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усе"
+          }
+        }
+      }
+    },
+    "All accent colors" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі кольори акценту"
+          }
+        }
+      }
+    },
+    "All accounts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі рахунки"
+          }
+        }
+      }
+    },
+    "All accounts count. Pick some to narrow it down." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Враховуються всі рахунки. Виберіть деякі, щоб звузити."
+          }
+        }
+      }
+    },
+    "All bills" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі платежі"
+          }
+        }
+      }
+    },
+    "All categories" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі категорії"
+          }
+        }
+      }
+    },
+    "All currencies" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі валюти"
+          }
+        }
+      }
+    },
+    "All spending this month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі витрати цього місяця"
+          }
+        }
+      }
+    },
+    "All time" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Весь час"
+          }
+        }
+      }
+    },
+    "Already saved" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уже відкладено"
+          }
+        }
+      }
+    },
+    "Amount" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сума"
+          }
+        }
+      }
+    },
+    "Amount (±)" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сума (±)"
+          }
+        }
+      }
+    },
+    "Amount owed" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сума боргу"
+          }
+        }
+      }
+    },
+    "Anything to note today?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Є що записати сьогодні?"
+          }
+        }
+      }
+    },
+    "Appearance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оформлення"
+          }
+        }
+      }
+    },
+    "Apple" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple"
+          }
+        }
+      }
+    },
+    "Apple Pay auto-log" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автозапис Apple Pay"
+          }
+        }
+      }
+    },
+    "Apple Pay auto-log & Siri" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автозапис Apple Pay і Siri"
+          }
+        }
+      }
+    },
+    "Archive" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В архів"
+          }
+        }
+      }
+    },
+    "Archive keeps the history but hides the account. Deleting removes it and every entry in it, on all your devices." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Архів зберігає історію, але ховає рахунок. Видалення прибирає його й усі його записи на всіх ваших пристроях."
+          }
+        }
+      }
+    },
+    "Archived" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В архіві"
+          }
+        }
+      }
+    },
+    "Arrives as" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарахується як"
+          }
+        }
+      }
+    },
+    "Ask Siri" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запитайте Siri"
+          }
+        }
+      }
+    },
+    "Asks first" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спершу питає"
+          }
+        }
+      }
+    },
+    "At this pace the month ends near %@ in spending." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У такому темпі витрати за місяць складуть близько %@."
+          }
+        }
+      }
+    },
+    "At this pace the month ends near %@ — %@ over your plan." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У такому темпі за місяць вийде близько %@ — на %@ більше за план."
+          }
+        }
+      }
+    },
+    "At this pace the month ends near %@, within your plan." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У такому темпі за місяць вийде близько %@ — у межах плану."
+          }
+        }
+      }
+    },
+    "At your pace: %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У вашому темпі: %@"
+          }
+        }
+      }
+    },
+    "Automatic" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автоматично"
+          }
+        }
+      }
+    },
+    "Automation" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автоматизація"
+          }
+        }
+      }
+    },
+    "Average cost" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Середня ціна"
+          }
+        }
+      }
+    },
+    "Back to now" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "До поточного"
+          }
+        }
+      }
+    },
+    "Balance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Баланс"
+          }
+        }
+      }
+    },
+    "Balance now" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Баланс зараз"
+          }
+        }
+      }
+    },
+    "Base" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основа"
+          }
+        }
+      }
+    },
+    "Based on your balance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На основі балансу"
+          }
+        }
+      }
+    },
+    "Behavior" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поведінка"
+          }
+        }
+      }
+    },
+    "Behind" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відстаєте"
+          }
+        }
+      }
+    },
+    "Biggest expense this month: %@, %@." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Найбільша витрата цього місяця: %@, %@."
+          }
+        }
+      }
+    },
+    "Bill" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Платіж"
+          }
+        }
+      }
+    },
+    "Bill due: %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Платіж: %@"
+          }
+        }
+      }
+    },
+    "Bill reminders" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нагадування про платежі"
+          }
+        }
+      }
+    },
+    "Bills" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Платежі"
+          }
+        }
+      }
+    },
+    "Bills & Utilities" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Комунальні послуги"
+          }
+        }
+      }
+    },
+    "Bills & subscriptions" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Платежі й підписки"
+          }
+        }
+      }
+    },
+    "Bills and subscriptions recorded on time." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Платежі й підписки записуються вчасно."
+          }
+        }
+      }
+    },
+    "Bills are set aside first, so a rent payment doesn't wipe out a single day. Spend less today and tomorrow's allowance grows." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Платежі відкладаються наперед, тож оренда не «з’їдає» один день. Витратите менше сьогодні — завтрашній ліміт зросте."
+          }
+        }
+      }
+    },
+    "Bills still due" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ще не сплачені платежі"
+          }
+        }
+      }
+    },
+    "Bills that come back" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Регулярні платежі"
+          }
+        }
+      }
+    },
+    "Bills this month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Платежі цього місяця"
+          }
+        }
+      }
+    },
+    "Bitcoin" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitcoin"
+          }
+        }
+      }
+    },
+    "Both are optional and can be changed in Settings." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обидва необов’язкові — їх можна змінити в Параметрах."
+          }
+        }
+      }
+    },
+    "Bought" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Куплено"
+          }
+        }
+      }
+    },
+    "Bring back" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повернути"
+          }
+        }
+      }
+    },
+    "Bring your history over from a CSV file." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перенесіть історію з CSV-файлу."
+          }
+        }
+      }
+    },
+    "Budget alerts at 80% and 100%" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сповіщення про бюджет на 80% і 100%"
+          }
+        }
+      }
+    },
+    "Budgeted spending" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витрати в межах бюджетів"
+          }
+        }
+      }
+    },
+    "Budgets" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бюджети"
+          }
+        }
+      }
+    },
+    "Budgets that repeat" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бюджети, що повторюються"
+          }
+        }
+      }
+    },
+    "Budgets total" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сума бюджетів"
+          }
+        }
+      }
+    },
+    "Budgets, goals and bills" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бюджети, цілі та платежі"
+          }
+        }
+      }
+    },
+    "Buy" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Купівля"
+          }
+        }
+      }
+    },
+    "Buys and sells" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Купівлі та продажі"
+          }
+        }
+      }
+    },
+    "Can my month start on payday?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чи може місяць починатися в день зарплати?"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скасувати"
+          }
+        }
+      }
+    },
+    "Card" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Картка"
+          }
+        }
+      }
+    },
+    "Cards" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Картки"
+          }
+        }
+      }
+    },
+    "Careful" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обережно"
+          }
+        }
+      }
+    },
+    "Cash" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Готівка"
+          }
+        }
+      }
+    },
+    "Cash & savings" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Готівка й заощадження"
+          }
+        }
+      }
+    },
+    "Categories" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Категорії"
+          }
+        }
+      }
+    },
+    "Category" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Категорія"
+          }
+        }
+      }
+    },
+    "Changing the balance doesn't create an entry; the starting point is adjusted." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зміна балансу не створює запис — коригується початкова сума."
+          }
+        }
+      }
+    },
+    "Check" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перевірити"
+          }
+        }
+      }
+    },
+    "Check what each column means. Rows without a date or amount are skipped." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перевірте, що означає кожен стовпець. Рядки без дати чи суми буде пропущено."
+          }
+        }
+      }
+    },
+    "Choose" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вибрати"
+          }
+        }
+      }
+    },
+    "Choose a CSV file" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вибрати CSV-файл"
+          }
+        }
+      }
+    },
+    "Choose a category" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть категорію"
+          }
+        }
+      }
+    },
+    "Choose “Transaction” (Wallet), pick your cards and set it to Run Immediately." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть «Транзакція» (Wallet), позначте свої картки й увімкніть «Запускати негайно»."
+          }
+        }
+      }
+    },
+    "Clear filters" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скинути фільтри"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закрити"
+          }
+        }
+      }
+    },
+    "Cobalt" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кобальт"
+          }
+        }
+      }
+    },
+    "Color" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Колір"
+          }
+        }
+      }
+    },
+    "Column %lld" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стовпець %lld"
+          }
+        }
+      }
+    },
+    "Columns" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стовпці"
+          }
+        }
+      }
+    },
+    "Coming in" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Надходження"
+          }
+        }
+      }
+    },
+    "Coming up" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Найближчі"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продовжити"
+          }
+        }
+      }
+    },
+    "Counts toward daily allowance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Враховувати в денному ліміті"
+          }
+        }
+      }
+    },
+    "Credit card" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кредитна картка"
+          }
+        }
+      }
+    },
+    "Credit cards" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кредитні картки"
+          }
+        }
+      }
+    },
+    "Crypto" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Крипта"
+          }
+        }
+      }
+    },
+    "Currency" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Валюта"
+          }
+        }
+      }
+    },
+    "Current balance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поточний баланс"
+          }
+        }
+      }
+    },
+    "Custom schedule" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свій розклад"
+          }
+        }
+      }
+    },
+    "Daily" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щодня"
+          }
+        }
+      }
+    },
+    "Daily allowance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Денний ліміт"
+          }
+        }
+      }
+    },
+    "Daily reminder" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щоденне нагадування"
+          }
+        }
+      }
+    },
+    "Daily spending this month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щоденні витрати цього місяця"
+          }
+        }
+      }
+    },
+    "Date" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дата"
+          }
+        }
+      }
+    },
+    "Day" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "День"
+          }
+        }
+      }
+    },
+    "Days" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дні"
+          }
+        }
+      }
+    },
+    "Days left" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Днів лишилося"
+          }
+        }
+      }
+    },
+    "Debts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Борги"
+          }
+        }
+      }
+    },
+    "Decimal point" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Десяткова кома"
+          }
+        }
+      }
+    },
+    "Default account" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рахунок за замовчуванням"
+          }
+        }
+      }
+    },
+    "Default for new entries" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За замовчуванням для нових записів"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити"
+          }
+        }
+      }
+    },
+    "Delete %@?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити «%@»?"
+          }
+        }
+      }
+    },
+    "Delete account and its entries" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити рахунок і його записи"
+          }
+        }
+      }
+    },
+    "Delete and leave entries uncategorized" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити, а записи лишити без категорії"
+          }
+        }
+      }
+    },
+    "Delete category?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити категорію?"
+          }
+        }
+      }
+    },
+    "Delete goal" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити ціль"
+          }
+        }
+      }
+    },
+    "Delete investment" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити інвестицію"
+          }
+        }
+      }
+    },
+    "Delete this entry?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити цей запис?"
+          }
+        }
+      }
+    },
+    "Delete this goal?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити цю ціль?"
+          }
+        }
+      }
+    },
+    "Divide" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поділити"
+          }
+        }
+      }
+    },
+    "Do budgets carry over to next month?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чи переходять бюджети на наступний місяць?"
+          }
+        }
+      }
+    },
+    "Doesn't repeat" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не повторюється"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Готово"
+          }
+        }
+      }
+    },
+    "Done. Each Apple Pay payment now appears in your ledger, already categorized." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Готово. Кожен платіж Apple Pay тепер з’являтиметься в журналі вже з категорією."
+          }
+        }
+      }
+    },
+    "Done. Time to pick the next one." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Готово. Час обрати наступну."
+          }
+        }
+      }
+    },
+    "Drag to reorder. Hidden categories keep their history but stop appearing when you write entries." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетягуйте, щоб змінити порядок. Приховані категорії зберігають історію, але не з’являються під час запису."
+          }
+        }
+      }
+    },
+    "Edit" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Змінити"
+          }
+        }
+      }
+    },
+    "Edit account" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати рахунок"
+          }
+        }
+      }
+    },
+    "Edit bill" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати платіж"
+          }
+        }
+      }
+    },
+    "Edit budget" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати бюджет"
+          }
+        }
+      }
+    },
+    "Edit category" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати категорію"
+          }
+        }
+      }
+    },
+    "Edit entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати запис"
+          }
+        }
+      }
+    },
+    "Edit goal" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати ціль"
+          }
+        }
+      }
+    },
+    "Edit investment" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати інвестицію"
+          }
+        }
+      }
+    },
+    "Education" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Освіта"
+          }
+        }
+      }
+    },
+    "Emerald" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Смарагд"
+          }
+        }
+      }
+    },
+    "Ended" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Завершено"
+          }
+        }
+      }
+    },
+    "Ends" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закінчується"
+          }
+        }
+      }
+    },
+    "Entertainment" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розваги"
+          }
+        }
+      }
+    },
+    "Entries" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записи"
+          }
+        }
+      }
+    },
+    "Entries found: %lld · spending: %lld · income: %lld" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Знайдено записів: %lld · витрат: %lld · надходжень: %lld"
+          }
+        }
+      }
+    },
+    "Entries in this category: %lld" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записів у цій категорії: %lld"
+          }
+        }
+      }
+    },
+    "Entries it already recorded stay in your ledger." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уже створені ним записи лишаться в журналі."
+          }
+        }
+      }
+    },
+    "Entries you write to this account appear here." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записи цього рахунку з’являтимуться тут."
+          }
+        }
+      }
+    },
+    "Entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запис"
+          }
+        }
+      }
+    },
+    "Evening reminder" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вечірнє нагадування"
+          }
+        }
+      }
+    },
+    "Every %lld days" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld days"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld дні"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld днів"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожен %lld день"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld дня"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Every %lld months" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld month"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld months"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld місяці"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld місяців"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожен %lld місяць"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld місяця"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Every %lld weeks" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld week"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld weeks"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld тижні"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld тижнів"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожен %lld тиждень"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld тижня"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Every %lld years" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld year"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Every %lld years"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld роки"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld років"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожен %lld рік"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Кожні %lld року"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Every 2 weeks" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кожні 2 тижні"
+          }
+        }
+      }
+    },
+    "Every 3 months" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кожні 3 місяці"
+          }
+        }
+      }
+    },
+    "Every 6 months" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кожні 6 місяців"
+          }
+        }
+      }
+    },
+    "Every entry, in order" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі записи по порядку"
+          }
+        }
+      }
+    },
+    "Every month, roughly" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щомісяця, приблизно"
+          }
+        }
+      }
+    },
+    "Everyday accounts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повсякденні рахунки"
+          }
+        }
+      }
+    },
+    "Everyday money. Usually off for savings and debts." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гроші на щодень. Для заощаджень і боргів зазвичай вимкнено."
+          }
+        }
+      }
+    },
+    "Everything" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усе"
+          }
+        }
+      }
+    },
+    "Everything you expect to spend in a month, bills included. Money List turns it into a daily allowance." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усе, що плануєте витратити за місяць, разом із платежами. Money List перетворить це на денний ліміт."
+          }
+        }
+      }
+    },
+    "Everything you own and owe" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усе, чим ви володієте і що винні"
+          }
+        }
+      }
+    },
+    "Everything, for good. One payment, no subscription." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усе й назавжди. Один платіж, без підписки."
+          }
+        }
+      }
+    },
+    "Expense" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витрата"
+          }
+        }
+      }
+    },
+    "Export a CSV file from that app or your bank, then use Settings → Import from CSV. Money List detects the columns for you." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Експортуйте CSV-файл із того застосунку чи банку, а потім відкрийте «Параметри» → «Імпорт із CSV». Money List сам розпізнає стовпці."
+          }
+        }
+      }
+    },
+    "Export a CSV file from your old app or your bank (Monobank, PrivatBank, Revolut and most others can), then pick it here. Money List recognizes the columns and shows a preview before anything is saved." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Експортуйте CSV-файл зі старого застосунку чи банку (monobank, ПриватБанк, Revolut і більшість інших це вміють), а потім виберіть його тут. Money List розпізнає стовпці й покаже попередній перегляд, перш ніж щось зберегти."
+          }
+        }
+      }
+    },
+    "Export to CSV" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Експорт у CSV"
+          }
+        }
+      }
+    },
+    "Extras" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додатково"
+          }
+        }
+      }
+    },
+    "Finish by a date" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Досягти до дати"
+          }
+        }
+      }
+    },
+    "First purchase" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перша покупка"
+          }
+        }
+      }
+    },
+    "First row is a header" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перший рядок — заголовок"
+          }
+        }
+      }
+    },
+    "First time" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перший раз"
+          }
+        }
+      }
+    },
+    "Flat in Lviv, watch, art…" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Квартира у Львові, годинник, мистецтво…"
+          }
+        }
+      }
+    },
+    "Food & Drinks" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Їжа й напої"
+          }
+        }
+      }
+    },
+    "Found: %@ per unit" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Знайдено: %@ за одиницю"
+          }
+        }
+      }
+    },
+    "Freelance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фриланс"
+          }
+        }
+      }
+    },
+    "From" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "З рахунку"
+          }
+        }
+      }
+    },
+    "From photos" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "З фото"
+          }
+        }
+      }
+    },
+    "Full net worth history" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повна історія капіталу"
+          }
+        }
+      }
+    },
+    "Get price" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отримати ціну"
+          }
+        }
+      }
+    },
+    "Gifts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подарунки"
+          }
+        }
+      }
+    },
+    "Give a category a monthly limit. It repeats every month until you change it." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Задайте категорії місячний ліміт. Він повторюватиметься щомісяця, доки ви його не зміните."
+          }
+        }
+      }
+    },
+    "Goals" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цілі"
+          }
+        }
+      }
+    },
+    "Going out" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витрати"
+          }
+        }
+      }
+    },
+    "Got it" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отримано"
+          }
+        }
+      }
+    },
+    "Graphite" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Графіт"
+          }
+        }
+      }
+    },
+    "Handy if you're paid on a fixed day." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зручно, якщо зарплата приходить у певний день."
+          }
+        }
+      }
+    },
+    "Health" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Здоров’я"
+          }
+        }
+      }
+    },
+    "Help" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Довідка"
+          }
+        }
+      }
+    },
+    "Help & questions" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Довідка та питання"
+          }
+        }
+      }
+    },
+    "Hidden amount" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сума прихована"
+          }
+        }
+      }
+    },
+    "Hide" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сховати"
+          }
+        }
+      }
+    },
+    "Hide amounts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приховати суми"
+          }
+        }
+      }
+    },
+    "Hide amounts when opening" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приховувати суми під час відкриття"
+          }
+        }
+      }
+    },
+    "History is rebuilt from your entries using today's exchange rates and prices, so it shows how your money moved rather than past market prices." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Історія відновлюється з ваших записів за сьогоднішніми курсами й цінами, тож показує рух ваших грошей, а не минулі ринкові ціни."
+          }
+        }
+      }
+    },
+    "History, debts and investments in one picture." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Історія, борги та інвестиції на одній картині."
+          }
+        }
+      }
+    },
+    "Home" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дім"
+          }
+        }
+      }
+    },
+    "How do I move from another app?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Як перейти з іншого застосунку?"
+          }
+        }
+      }
+    },
+    "How do I write an entry fast?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Як швидко зробити запис?"
+          }
+        }
+      }
+    },
+    "How do bills work?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Як працюють платежі?"
+          }
+        }
+      }
+    },
+    "How much do you have right now?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скільки у вас грошей зараз?"
+          }
+        }
+      }
+    },
+    "How much do you want to spend in a month, bills included? Money List turns it into a daily allowance." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скільки ви хочете витрачати за місяць разом із платежами? Money List перетворить це на денний ліміт."
+          }
+        }
+      }
+    },
+    "How progress is counted" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Як рахується прогрес"
+          }
+        }
+      }
+    },
+    "How this is calculated" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Як це рахується"
+          }
+        }
+      }
+    },
+    "I add money" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я додаю гроші"
+          }
+        }
+      }
+    },
+    "I bought Pro on another device" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я купив Pro на іншому пристрої"
+          }
+        }
+      }
+    },
+    "I couldn't find an amount. Try “lunch 12”." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося знайти суму. Спробуйте «обід 150»."
+          }
+        }
+      }
+    },
+    "Import" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Імпорт"
+          }
+        }
+      }
+    },
+    "Import %lld entries" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Import %lld entry"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Import %lld entries"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортувати %lld записи"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортувати %lld записів"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортувати %lld запис"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортувати %lld запису"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Import from CSV" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Імпорт із CSV"
+          }
+        }
+      }
+    },
+    "Import from any app" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Імпорт з будь-якого застосунку"
+          }
+        }
+      }
+    },
+    "Imported %lld entries" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Imported %lld entry"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Imported %lld entries"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортовано %lld записи"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортовано %lld записів"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортовано %lld запис"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Імпортовано %lld запису"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "In" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Надійшло"
+          }
+        }
+      }
+    },
+    "In %lld days" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "In %lld day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "In %lld days"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Через %lld дні"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Через %lld днів"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Через %lld день"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Через %lld дня"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Income" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Надходження"
+          }
+        }
+      }
+    },
+    "Into" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На рахунок"
+          }
+        }
+      }
+    },
+    "Into account" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На рахунок"
+          }
+        }
+      }
+    },
+    "Investments" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Інвестиції"
+          }
+        }
+      }
+    },
+    "It's a subscription" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Це підписка"
+          }
+        }
+      }
+    },
+    "It's what you can spend today and stay within your monthly plan. Bills are set aside first. Without a plan, it's based on your everyday accounts minus upcoming bills." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Це сума, яку можна витратити сьогодні й не вийти за місячний план. Платежі відкладаються наперед. Без плану ліміт рахується від повсякденних рахунків мінус майбутні платежі."
+          }
+        }
+      }
+    },
+    "Its buy and sell history is removed too." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Історію купівель і продажів теж буде видалено."
+          }
+        }
+      }
+    },
+    "Keep current balances" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберегти поточні баланси"
+          }
+        }
+      }
+    },
+    "Keeps your numbers away from curious eyes." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ховає ваші цифри від сторонніх очей."
+          }
+        }
+      }
+    },
+    "Kept" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Збережено"
+          }
+        }
+      }
+    },
+    "Kind" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тип"
+          }
+        }
+      }
+    },
+    "Last month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Минулий місяць"
+          }
+        }
+      }
+    },
+    "Last time" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Останній раз"
+          }
+        }
+      }
+    },
+    "Leave empty to use your balance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Залиште порожнім, щоб рахувати від балансу"
+          }
+        }
+      }
+    },
+    "Ledger" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журнал"
+          }
+        }
+      }
+    },
+    "Left to spend today" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Можна витратити сьогодні"
+          }
+        }
+      }
+    },
+    "Let Shortcuts record Wallet payments for you." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нехай «Команди» записують платежі з Wallet за вас."
+          }
+        }
+      }
+    },
+    "Let's go" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уперед"
+          }
+        }
+      }
+    },
+    "Limit per month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ліміт на місяць"
+          }
+        }
+      }
+    },
+    "Live price" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ринкова ціна"
+          }
+        }
+      }
+    },
+    "Loan" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кредит"
+          }
+        }
+      }
+    },
+    "Loans" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кредити"
+          }
+        }
+      }
+    },
+    "Lock with %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Блокувати через %@"
+          }
+        }
+      }
+    },
+    "Log Apple Pay purchases automatically" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записуйте покупки Apple Pay автоматично"
+          }
+        }
+      }
+    },
+    "Log Purchase" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записати покупку"
+          }
+        }
+      }
+    },
+    "Long-press a bill to pay it early, skip one time or pause it." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Утримуйте платіж, щоб сплатити раніше, пропустити один раз або поставити на паузу."
+          }
+        }
+      }
+    },
+    "Look" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вигляд"
+          }
+        }
+      }
+    },
+    "Main card, Cash, Savings…" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основна картка, готівка, заощадження…"
+          }
+        }
+      }
+    },
+    "Main currency" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основна валюта"
+          }
+        }
+      }
+    },
+    "Make it an expense" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зробити витратою"
+          }
+        }
+      }
+    },
+    "Make it income" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зробити надходженням"
+          }
+        }
+      }
+    },
+    "Margin notes" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нотатки на полях"
+          }
+        }
+      }
+    },
+    "Meaning" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значення"
+          }
+        }
+      }
+    },
+    "Merchant" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продавець"
+          }
+        }
+      }
+    },
+    "Minus" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мінус"
+          }
+        }
+      }
+    },
+    "Money" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гроші"
+          }
+        }
+      }
+    },
+    "Money List 2.0" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money List 2.0"
+          }
+        }
+      }
+    },
+    "Money List Pro" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money List Pro"
+          }
+        }
+      }
+    },
+    "Money List is locked" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Money List заблоковано"
+          }
+        }
+      }
+    },
+    "Money coming: %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Надходження: %@"
+          }
+        }
+      }
+    },
+    "Money in" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарахування"
+          }
+        }
+      }
+    },
+    "Money out" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Списання"
+          }
+        }
+      }
+    },
+    "Month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Місяць"
+          }
+        }
+      }
+    },
+    "Monthly" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щомісяця"
+          }
+        }
+      }
+    },
+    "Monthly contribution (optional)" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щомісячний внесок (необов’язково)"
+          }
+        }
+      }
+    },
+    "Monthly plan" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Місячний план"
+          }
+        }
+      }
+    },
+    "Monthly plan & month start" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Місячний план і початок місяця"
+          }
+        }
+      }
+    },
+    "Months" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Місяці"
+          }
+        }
+      }
+    },
+    "More" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Більше"
+          }
+        }
+      }
+    },
+    "More apps" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Інші застосунки"
+          }
+        }
+      }
+    },
+    "Most of this month's %@ budget is used." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Більшу частину бюджету «%@» на цей місяць уже використано."
+          }
+        }
+      }
+    },
+    "Most used" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Найуживаніший"
+          }
+        }
+      }
+    },
+    "Move entries to %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перенести записи в «%@»"
+          }
+        }
+      }
+    },
+    "Moved" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Переказано"
+          }
+        }
+      }
+    },
+    "Moving in" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Переїзд"
+          }
+        }
+      }
+    },
+    "Multiply" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помножити"
+          }
+        }
+      }
+    },
+    "My month starts on day %lld" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мій місяць починається %lld-го числа"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назва"
+          }
+        }
+      }
+    },
+    "Net" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Різниця"
+          }
+        }
+      }
+    },
+    "Net worth" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чистий капітал"
+          }
+        }
+      }
+    },
+    "Net worth on this day" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Капітал на цей день"
+          }
+        }
+      }
+    },
+    "Net worth over time" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Капітал у динаміці"
+          }
+        }
+      }
+    },
+    "New" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова"
+          }
+        }
+      }
+    },
+    "New account" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новий рахунок"
+          }
+        }
+      }
+    },
+    "New bill" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новий платіж"
+          }
+        }
+      }
+    },
+    "New budget" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новий бюджет"
+          }
+        }
+      }
+    },
+    "New category" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова категорія"
+          }
+        }
+      }
+    },
+    "New entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новий запис"
+          }
+        }
+      }
+    },
+    "New goal" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова ціль"
+          }
+        }
+      }
+    },
+    "New investment" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова інвестиція"
+          }
+        }
+      }
+    },
+    "Next month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Наступний місяць"
+          }
+        }
+      }
+    },
+    "Next time" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Наступний раз"
+          }
+        }
+      }
+    },
+    "Night" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ніч"
+          }
+        }
+      }
+    },
+    "No account, no bank login. Your data stays on your devices and private iCloud." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Без реєстрації та входу в банк. Ваші дані лишаються на ваших пристроях і в приватному iCloud."
+          }
+        }
+      }
+    },
+    "No account, no sign-in. Your data stays on this device and in your private iCloud." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Без реєстрації та входу. Ваші дані лишаються на цьому пристрої та у вашому приватному iCloud."
+          }
+        }
+      }
+    },
+    "No ads, ever" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жодної реклами"
+          }
+        }
+      }
+    },
+    "No ads, no limits, receipts and colors. Paid once." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Без реклами й обмежень, із чеками та кольорами. Оплата один раз."
+          }
+        }
+      }
+    },
+    "No budgets yet" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бюджетів ще немає"
+          }
+        }
+      }
+    },
+    "No entries here yet" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тут ще немає записів"
+          }
+        }
+      }
+    },
+    "No income recorded this month." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цього місяця надходжень не записано."
+          }
+        }
+      }
+    },
+    "No market feed for this one — update the value whenever it changes." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для цього немає ринкових цін — оновлюйте вартість, коли вона змінюється."
+          }
+        }
+      }
+    },
+    "No previous purchase was found for this Apple Account." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для цього облікового запису Apple попередніх покупок не знайдено."
+          }
+        }
+      }
+    },
+    "No price found for this symbol. Check the ticker (for example AAPL, VWCE.DE or BTC)." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ціну для цього символу не знайдено. Перевірте тікер (наприклад, AAPL, VWCE.DE або BTC)."
+          }
+        }
+      }
+    },
+    "No reminder" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Без нагадування"
+          }
+        }
+      }
+    },
+    "No rows found in that file." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У цьому файлі немає рядків."
+          }
+        }
+      }
+    },
+    "No spending recorded this month." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цього місяця витрат не записано."
+          }
+        }
+      }
+    },
+    "Not signed in" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вхід не виконано"
+          }
+        }
+      }
+    },
+    "Note" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нотатка"
+          }
+        }
+      }
+    },
+    "Noted %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записано: %@"
+          }
+        }
+      }
+    },
+    "Noted today" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записано сьогодні"
+          }
+        }
+      }
+    },
+    "Nothing matches" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нічого не знайдено"
+          }
+        }
+      }
+    },
+    "Nothing noted yet. Write your first entry above — for example “lunch 12”." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ще нічого не записано. Зробіть перший запис угорі — наприклад, «обід 150»."
+          }
+        }
+      }
+    },
+    "Nothing to save for yet?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ще нема на що відкладати?"
+          }
+        }
+      }
+    },
+    "Notifications are off for Money List — open Settings" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сповіщення для Money List вимкнено — відкрийте Параметри"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Ochre" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Охра"
+          }
+        }
+      }
+    },
+    "Off" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вимкнено"
+          }
+        }
+      }
+    },
+    "On" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Увімкнено"
+          }
+        }
+      }
+    },
+    "On pace" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За планом"
+          }
+        }
+      }
+    },
+    "On the day" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У день платежу"
+          }
+        }
+      }
+    },
+    "On track" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За планом"
+          }
+        }
+      }
+    },
+    "On your iPhone and in your private iCloud, synced between your devices. There is no account, and your entries are never sent to us — only anonymous usage statistics, which you can turn off in Settings → Privacy." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На вашому iPhone і у вашому приватному iCloud, із синхронізацією між пристроями. Реєстрації немає, і ваші записи нам не надсилаються — лише анонімна статистика використання, яку можна вимкнути в «Параметри» → «Приватність»."
+          }
+        }
+      }
+    },
+    "Only the picked accounts count." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Враховуються лише вибрані рахунки."
+          }
+        }
+      }
+    },
+    "Open" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити"
+          }
+        }
+      }
+    },
+    "Open Shortcuts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити «Команди»"
+          }
+        }
+      }
+    },
+    "Open Shortcuts → Automation → New Automation." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрийте «Команди» → «Автоматизація» → «Нова автоматизація»."
+          }
+        }
+      }
+    },
+    "Open full entry form" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити повну форму"
+          }
+        }
+      }
+    },
+    "Open my ledger" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити мій журнал"
+          }
+        }
+      }
+    },
+    "Optional" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Необов’язково"
+          }
+        }
+      }
+    },
+    "Options" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Параметри"
+          }
+        }
+      }
+    },
+    "Other" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Інше"
+          }
+        }
+      }
+    },
+    "Other income" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Інші надходження"
+          }
+        }
+      }
+    },
+    "Out" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витрачено"
+          }
+        }
+      }
+    },
+    "Over" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перевищено"
+          }
+        }
+      }
+    },
+    "Over pace" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вище плану"
+          }
+        }
+      }
+    },
+    "Over today's allowance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Понад денний ліміт"
+          }
+        }
+      }
+    },
+    "Overdue" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прострочено"
+          }
+        }
+      }
+    },
+    "Owed" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Борги"
+          }
+        }
+      }
+    },
+    "Paid" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сплачено"
+          }
+        }
+      }
+    },
+    "Paid on the 25th? Start your month on the 25th and every budget follows your payday." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарплата 25-го? Почніть місяць 25-го — і всі бюджети підлаштуються під день зарплати."
+          }
+        }
+      }
+    },
+    "Paid once · yours forever" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оплата один раз · ваше назавжди"
+          }
+        }
+      }
+    },
+    "Paper" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Папір"
+          }
+        }
+      }
+    },
+    "Passcode" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Код-пароль"
+          }
+        }
+      }
+    },
+    "Past entries won't change what the account shows today." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Минулі записи не змінять сьогоднішній баланс рахунку."
+          }
+        }
+      }
+    },
+    "Pause" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пауза"
+          }
+        }
+      }
+    },
+    "Paused" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На паузі"
+          }
+        }
+      }
+    },
+    "Pay now" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сплатити зараз"
+          }
+        }
+      }
+    },
+    "Per day" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На день"
+          }
+        }
+      }
+    },
+    "Period" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Період"
+          }
+        }
+      }
+    },
+    "Picked" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вибрано"
+          }
+        }
+      }
+    },
+    "Plan" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "План"
+          }
+        }
+      }
+    },
+    "Plum" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Слива"
+          }
+        }
+      }
+    },
+    "Plus" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Плюс"
+          }
+        }
+      }
+    },
+    "Preview" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попередній перегляд"
+          }
+        }
+      }
+    },
+    "Previous month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попередній місяць"
+          }
+        }
+      }
+    },
+    "Price now" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ціна зараз"
+          }
+        }
+      }
+    },
+    "Price per unit" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ціна за одиницю"
+          }
+        }
+      }
+    },
+    "Privacy" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приватність"
+          }
+        }
+      }
+    },
+    "Privacy policy" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Конфіденційність"
+          }
+        }
+      }
+    },
+    "Property & other" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нерухомість та інше"
+          }
+        }
+      }
+    },
+    "Purchase" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Покупка"
+          }
+        }
+      }
+    },
+    "Quantity" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кількість"
+          }
+        }
+      }
+    },
+    "Quantity (0.5 is fine)" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кількість (можна 0,5)"
+          }
+        }
+      }
+    },
+    "Rate Money List" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оцінити Money List"
+          }
+        }
+      }
+    },
+    "Reached" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Досягнуто"
+          }
+        }
+      }
+    },
+    "Realized" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зафіксовано"
+          }
+        }
+      }
+    },
+    "Receipt" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чек"
+          }
+        }
+      }
+    },
+    "Receipt added" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чек додано"
+          }
+        }
+      }
+    },
+    "Receipt photo" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фото чека"
+          }
+        }
+      }
+    },
+    "Receipt photos with total scan" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фото чеків із розпізнаванням суми"
+          }
+        }
+      }
+    },
+    "Received" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отримано"
+          }
+        }
+      }
+    },
+    "Record a buy" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записати купівлю"
+          }
+        }
+      }
+    },
+    "Record a sell" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записати продаж"
+          }
+        }
+      }
+    },
+    "Record automatically" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записувати автоматично"
+          }
+        }
+      }
+    },
+    "Record it now" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записати зараз"
+          }
+        }
+      }
+    },
+    "Recorded %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записано: %@"
+          }
+        }
+      }
+    },
+    "Recorded on the day, with reminders beforehand." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записуються в потрібний день, із нагадуваннями заздалегідь."
+          }
+        }
+      }
+    },
+    "Records a purchase. Use it with the Transaction automation in Shortcuts to log card payments automatically." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записує покупку. Використовуйте з автоматизацією «Транзакція» в Командах, щоб платежі карткою записувалися автоматично."
+          }
+        }
+      }
+    },
+    "Records itself" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записується сам"
+          }
+        }
+      }
+    },
+    "Refresh prices" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оновити ціни"
+          }
+        }
+      }
+    },
+    "Remind me at" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нагадувати о"
+          }
+        }
+      }
+    },
+    "Reminder" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нагадування"
+          }
+        }
+      }
+    },
+    "Reminders" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нагадування"
+          }
+        }
+      }
+    },
+    "Remove from this month on" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прибрати з цього місяця"
+          }
+        }
+      }
+    },
+    "Remove photo" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прибрати фото"
+          }
+        }
+      }
+    },
+    "Remove receipt" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прибрати чек"
+          }
+        }
+      }
+    },
+    "Remove this budget" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прибрати цей бюджет"
+          }
+        }
+      }
+    },
+    "Remove this budget?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прибрати цей бюджет?"
+          }
+        }
+      }
+    },
+    "Rent, phone, streaming, salary. Add them once — Money List records them on time and reminds you before they're due." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оренда, телефон, стримінг, зарплата. Додайте їх один раз — Money List записуватиме їх вчасно й нагадуватиме заздалегідь."
+          }
+        }
+      }
+    },
+    "Rent, phone, streaming…" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оренда, телефон, стримінг…"
+          }
+        }
+      }
+    },
+    "Repeat" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторити"
+          }
+        }
+      }
+    },
+    "Repeat today" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторити сьогодні"
+          }
+        }
+      }
+    },
+    "Repeating entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторюваний запис"
+          }
+        }
+      }
+    },
+    "Repeats" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторюється"
+          }
+        }
+      }
+    },
+    "Report" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звіт"
+          }
+        }
+      }
+    },
+    "Restore purchase" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відновити покупку"
+          }
+        }
+      }
+    },
+    "Restricted" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обмежено"
+          }
+        }
+      }
+    },
+    "Resume" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відновити"
+          }
+        }
+      }
+    },
+    "Roughly is fine — you can add more accounts later." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Можна приблизно — інші рахунки додасте пізніше."
+          }
+        }
+      }
+    },
+    "Salary" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зарплата"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберегти"
+          }
+        }
+      }
+    },
+    "Save entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберегти запис"
+          }
+        }
+      }
+    },
+    "Saved so far" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкладено"
+          }
+        }
+      }
+    },
+    "Saved toward goals" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкладено на цілі"
+          }
+        }
+      }
+    },
+    "Savings" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Заощадження"
+          }
+        }
+      }
+    },
+    "Savings, credit cards and loans are not counted. You can change which accounts count in Wealth → account settings." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Заощадження, кредитні картки й кредити не враховуються. Які рахунки враховувати, можна змінити в «Капітал» → налаштування рахунку."
+          }
+        }
+      }
+    },
+    "Scan receipt" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сканувати чек"
+          }
+        }
+      }
+    },
+    "Search currencies" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пошук валюти"
+          }
+        }
+      }
+    },
+    "Search notes, categories, amounts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пошук за нотатками, категоріями, сумами"
+          }
+        }
+      }
+    },
+    "Sell" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продаж"
+          }
+        }
+      }
+    },
+    "Series" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ряд"
+          }
+        }
+      }
+    },
+    "Set a budget" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Задати бюджет"
+          }
+        }
+      }
+    },
+    "Set a limit once; it carries into every month." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Задайте ліміт один раз — він діятиме щомісяця."
+          }
+        }
+      }
+    },
+    "Set a plan" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Задати план"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Параметри"
+          }
+        }
+      }
+    },
+    "Settings → Restore purchase. Pro is a one-time purchase tied to your Apple Account." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«Параметри» → «Відновити покупку». Pro — це разова покупка, прив’язана до вашого облікового запису Apple."
+          }
+        }
+      }
+    },
+    "Share anonymous usage statistics" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Надсилати анонімну статистику"
+          }
+        }
+      }
+    },
+    "Shopping" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Покупки"
+          }
+        }
+      }
+    },
+    "Show" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати"
+          }
+        }
+      }
+    },
+    "Show amounts" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати суми"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пропустити"
+          }
+        }
+      }
+    },
+    "Skip entries already in Money List" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пропускати записи, що вже є в Money List"
+          }
+        }
+      }
+    },
+    "Skip for now" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пропустити"
+          }
+        }
+      }
+    },
+    "Skip this time" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пропустити цього разу"
+          }
+        }
+      }
+    },
+    "Sold" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продано"
+          }
+        }
+      }
+    },
+    "Something else?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Інша?"
+          }
+        }
+      }
+    },
+    "Spending" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витрати"
+          }
+        }
+      }
+    },
+    "Spending calendar" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Календар витрат"
+          }
+        }
+      }
+    },
+    "Spending plan" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "План витрат"
+          }
+        }
+      }
+    },
+    "Spent" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витрачено"
+          }
+        }
+      }
+    },
+    "Spent without a budget" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витрачено поза бюджетами"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Почати"
+          }
+        }
+      }
+    },
+    "Still stuck? Write to the developer" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не знайшли відповіді? Напишіть розробнику"
+          }
+        }
+      }
+    },
+    "Stocks" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Акції"
+          }
+        }
+      }
+    },
+    "Stocks & ETFs" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Акції та ETF"
+          }
+        }
+      }
+    },
+    "Stocks, crypto, a flat" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Акції, крипта, квартира"
+          }
+        }
+      }
+    },
+    "Subscriptions" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підписки"
+          }
+        }
+      }
+    },
+    "Subscriptions (%lld) add up to about %@ a year." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підписки (%lld) коштують приблизно %@ на рік."
+          }
+        }
+      }
+    },
+    "Subscriptions a year" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підписки за рік"
+          }
+        }
+      }
+    },
+    "Support" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підтримка"
+          }
+        }
+      }
+    },
+    "Switch and convert budgets" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Змінити й перерахувати бюджети"
+          }
+        }
+      }
+    },
+    "Switch main currency?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Змінити основну валюту?"
+          }
+        }
+      }
+    },
+    "Switch, keep budget numbers" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Змінити, лишивши суми бюджетів"
+          }
+        }
+      }
+    },
+    "Symbol" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значок"
+          }
+        }
+      }
+    },
+    "Symbol, e.g. BTC" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Символ, напр. BTC"
+          }
+        }
+      }
+    },
+    "Sync is paused: the iCloud store could not be opened, so changes are kept on this device only." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Синхронізацію призупинено: не вдалося відкрити сховище iCloud, тож зміни зберігаються лише на цьому пристрої."
+          }
+        }
+      }
+    },
+    "Take a photo" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зробити фото"
+          }
+        }
+      }
+    },
+    "Take out" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зняти"
+          }
+        }
+      }
+    },
+    "Tap Amount and choose the Shortcut Input “Amount”; tap Merchant and choose “Merchant”." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Торкніться «Сума» й виберіть вхідне значення «Сума»; торкніться «Продавець» і виберіть «Продавець»."
+          }
+        }
+      }
+    },
+    "Target" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цільова сума"
+          }
+        }
+      }
+    },
+    "Target date" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дата"
+          }
+        }
+      }
+    },
+    "Tells you how much you can still spend today." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каже, скільки ще можна витратити сьогодні."
+          }
+        }
+      }
+    },
+    "Terms of use" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Умови використання"
+          }
+        }
+      }
+    },
+    "That amount didn't look right." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сума виглядає неправильно."
+          }
+        }
+      }
+    },
+    "That file couldn't be read." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося прочитати цей файл."
+          }
+        }
+      }
+    },
+    "That's about" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Це приблизно"
+          }
+        }
+      }
+    },
+    "The App Store is not reachable right now. Please try again later." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Store зараз недоступний. Спробуйте пізніше."
+          }
+        }
+      }
+    },
+    "The limit repeats every month until you change it. Changing it now doesn't rewrite past months." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ліміт повторюється щомісяця, доки ви його не зміните. Зміна зараз не переписує минулі місяці."
+          }
+        }
+      }
+    },
+    "The purchase could not be verified." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося підтвердити покупку."
+          }
+        }
+      }
+    },
+    "This month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цей місяць"
+          }
+        }
+      }
+    },
+    "This year" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цей рік"
+          }
+        }
+      }
+    },
+    "Ticker, e.g. AAPL or VWCE.DE" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тікер, напр. AAPL або VWCE.DE"
+          }
+        }
+      }
+    },
+    "To" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Куди"
+          }
+        }
+      }
+    },
+    "Today" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сьогодні"
+          }
+        }
+      }
+    },
+    "Today · %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сьогодні · %@"
+          }
+        }
+      }
+    },
+    "Today's Allowance" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ліміт на сьогодні"
+          }
+        }
+      }
+    },
+    "Tomorrow" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Завтра"
+          }
+        }
+      }
+    },
+    "Total" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разом"
+          }
+        }
+      }
+    },
+    "Total, once" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разом, один раз"
+          }
+        }
+      }
+    },
+    "Totals and your daily allowance use it. Accounts can still be in any currency." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У ній показуються підсумки й денний ліміт. Рахунки можуть бути в будь-якій валюті."
+          }
+        }
+      }
+    },
+    "Totals will be shown in %@. Accounts keep their own currencies." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підсумки показуватимуться в %@. Рахунки зберігають власні валюти."
+          }
+        }
+      }
+    },
+    "Trade" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Угода"
+          }
+        }
+      }
+    },
+    "Transfer" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Переказ"
+          }
+        }
+      }
+    },
+    "Transfers" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перекази"
+          }
+        }
+      }
+    },
+    "Transport" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Транспорт"
+          }
+        }
+      }
+    },
+    "Travel" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подорожі"
+          }
+        }
+      }
+    },
+    "Try another word, account or period." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спробуйте інше слово, рахунок або період."
+          }
+        }
+      }
+    },
+    "Turn on app lock" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Увімкнути блокування"
+          }
+        }
+      }
+    },
+    "Twelve months" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дванадцять місяців"
+          }
+        }
+      }
+    },
+    "Two small helpers" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Два маленькі помічники"
+          }
+        }
+      }
+    },
+    "Type" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тип"
+          }
+        }
+      }
+    },
+    "Type it like a note on Today: “coffee 4.50”, “taxi 120 yesterday”, “+2000 salary”. Money List finds the amount, date and category and learns from your corrections." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Напишіть як нотатку на екрані «Сьогодні»: «кава 45», «таксі 120 вчора», «+20000 зарплата». Money List знайде суму, дату й категорію та вчиться на ваших виправленнях."
+          }
+        }
+      }
+    },
+    "Unavailable" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Недоступно"
+          }
+        }
+      }
+    },
+    "Uncategorized" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Без категорії"
+          }
+        }
+      }
+    },
+    "Under pace" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нижче плану"
+          }
+        }
+      }
+    },
+    "Undo" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скасувати"
+          }
+        }
+      }
+    },
+    "Unit" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Одиниця"
+          }
+        }
+      }
+    },
+    "Unknown" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Невідомо"
+          }
+        }
+      }
+    },
+    "Unlimited accounts & budgets" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Необмежено рахунків і бюджетів"
+          }
+        }
+      }
+    },
+    "Unlimited goals and bills" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Необмежено цілей і платежів"
+          }
+        }
+      }
+    },
+    "Unlock Pro" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити Pro"
+          }
+        }
+      }
+    },
+    "Unlock with %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розблокувати через %@"
+          }
+        }
+      }
+    },
+    "Unlock your money notes" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розблокуйте свої фінансові записи"
+          }
+        }
+      }
+    },
+    "Unlocked" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрито"
+          }
+        }
+      }
+    },
+    "Update" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оновити"
+          }
+        }
+      }
+    },
+    "Update value" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оновити вартість"
+          }
+        }
+      }
+    },
+    "Updated %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оновлено %@"
+          }
+        }
+      }
+    },
+    "Use %@ from the receipt" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Взяти %@ з чека"
+          }
+        }
+      }
+    },
+    "Value" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вартість"
+          }
+        }
+      }
+    },
+    "Value per unit" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вартість одиниці"
+          }
+        }
+      }
+    },
+    "Value per unit today" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вартість одиниці сьогодні"
+          }
+        }
+      }
+    },
+    "Vermilion" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кіновар"
+          }
+        }
+      }
+    },
+    "Waiting for you" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чекають на вас"
+          }
+        }
+      }
+    },
+    "Waits on Today until you tap Paid." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чекає на екрані «Сьогодні», доки ви не натиснете «Сплачено»."
+          }
+        }
+      }
+    },
+    "Wallet" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гаманець"
+          }
+        }
+      }
+    },
+    "Wealth" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Капітал"
+          }
+        }
+      }
+    },
+    "Weekly" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щотижня"
+          }
+        }
+      }
+    },
+    "Weeks" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тижні"
+          }
+        }
+      }
+    },
+    "What is it" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Що це"
+          }
+        }
+      }
+    },
+    "What is the daily allowance?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Що таке денний ліміт?"
+          }
+        }
+      }
+    },
+    "What you can spend today, adjusted as you go." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скільки можна витратити сьогодні — з поправкою на ваші витрати."
+          }
+        }
+      }
+    },
+    "When" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Коли"
+          }
+        }
+      }
+    },
+    "Where is my data?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Де зберігаються мої дані?"
+          }
+        }
+      }
+    },
+    "Where it came from" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звідки прийшли гроші"
+          }
+        }
+      }
+    },
+    "Where it went" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Куди пішли гроші"
+          }
+        }
+      }
+    },
+    "Where, what, who with…" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Де, що, з ким…"
+          }
+        }
+      }
+    },
+    "Which currency do you think in?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У якій валюті ви рахуєте?"
+          }
+        }
+      }
+    },
+    "Why is my net worth chart approximate?" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чому графік капіталу приблизний?"
+          }
+        }
+      }
+    },
+    "Without a plan, the allowance comes from the money in your everyday accounts, minus bills still due this month, spread over the days that are left." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Без плану ліміт рахується від грошей на повсякденних рахунках мінус ще не сплачені цього місяця платежі й розподіляється на дні, що лишилися."
+          }
+        }
+      }
+    },
+    "Without bank access" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Без доступу до банку"
+          }
+        }
+      }
+    },
+    "Write" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записати"
+          }
+        }
+      }
+    },
+    "Write a new entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зробити новий запис"
+          }
+        }
+      }
+    },
+    "Write an Entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зробити запис"
+          }
+        }
+      }
+    },
+    "Write an entry" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зробити запис"
+          }
+        }
+      }
+    },
+    "Write entries like notes, see what you can spend today, and watch your net worth — privately, on your iPhone." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записуйте витрати як нотатки, бачте, скільки можна витратити сьогодні, і стежте за своїм капіталом — приватно, на вашому iPhone."
+          }
+        }
+      }
+    },
+    "Write it like a note" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пишіть як нотатку"
+          }
+        }
+      }
+    },
+    "Write to the developer" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Написати розробнику"
+          }
+        }
+      }
+    },
+    "Write your first entry — it takes three seconds." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зробіть перший запис — це займе три секунди."
+          }
+        }
+      }
+    },
+    "Yearly" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щороку"
+          }
+        }
+      }
+    },
+    "Years" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Роки"
+          }
+        }
+      }
+    },
+    "Yes. A budget keeps its limit every month until you change or remove it." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Так. Бюджет зберігає ліміт щомісяця, доки ви його не зміните чи не приберете."
+          }
+        }
+      }
+    },
+    "Yes. Settings → Monthly plan & month start lets you pick any day from 1 to 28." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Так. У «Параметри» → «Місячний план і початок місяця» можна вибрати будь-який день від 1 до 28."
+          }
+        }
+      }
+    },
+    "Yesterday" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Учора"
+          }
+        }
+      }
+    },
+    "Yesterday · %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Учора · %@"
+          }
+        }
+      }
+    },
+    "You can also find these actions in Spotlight and add them to the Action button or Control Center." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ці дії також є в Spotlight — їх можна призначити кнопці дії або додати в Центр керування. Siri розуміє фрази англійською."
+          }
+        }
+      }
+    },
+    "You can spend %@ today." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сьогодні можна витратити %@."
+          }
+        }
+      }
+    },
+    "You hold %@." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У вас %@."
+          }
+        }
+      }
+    },
+    "You're %@ over today's allowance." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ви перевищили денний ліміт на %@."
+          }
+        }
+      }
+    },
+    "You've used %lld%% of this month's limit." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Використано %lld%% ліміту на цей місяць."
+          }
+        }
+      }
+    },
+    "Your data" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваші дані"
+          }
+        }
+      }
+    },
+    "Your data is all here. Everything around it was rebuilt." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі ваші дані на місці. Усе довкола них створено заново."
+          }
+        }
+      }
+    },
+    "Your entries stay on this device and in your private iCloud. Usage statistics never include amounts, notes or names." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваші записи лишаються на цьому пристрої та у вашому приватному iCloud. Статистика використання ніколи не містить сум, нотаток чи назв."
+          }
+        }
+      }
+    },
+    "Your history fills in as you add entries." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Історія заповнюватиметься, коли ви додаватимете записи."
+          }
+        }
+      }
+    },
+    "Your money,\nwritten down plainly." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваші гроші,\nзаписані просто."
+          }
+        }
+      }
+    },
+    "Your month starts on" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваш місяць починається"
+          }
+        }
+      }
+    },
+    "Your monthly plan, minus bills, spread over the days that are left." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваш місячний план мінус платежі, розподілений на дні, що лишилися."
+          }
+        }
+      }
+    },
+    "Your notes stay private until you unlock." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваші записи лишаються приватними, доки ви не розблокуєте застосунок."
+          }
+        }
+      }
+    },
+    "a day" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "на день"
+          }
+        }
+      }
+    },
+    "a day." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "на день."
+          }
+        }
+      }
+    },
+    "coffee 4.50" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "кава 45"
+          }
+        }
+      }
+    },
+    "coffee 4.50 · taxi 120 yesterday" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "кава 45 · таксі 120 вчора"
+          }
+        }
+      }
+    },
+    "from day %lld" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "з %lld-го числа"
+          }
+        }
+      }
+    },
+    "goes to %@" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "надійде на «%@»"
+          }
+        }
+      }
+    },
+    "iCloud sync" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Синхронізація iCloud"
+          }
+        }
+      }
+    },
+    "iPhone can tell Money List about every Wallet payment. Set it up once in the Shortcuts app — it takes about a minute." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone може повідомляти Money List про кожен платіж через Wallet. Налаштуйте це один раз у застосунку «Команди» — це займе близько хвилини."
+          }
+        }
+      }
+    },
+    "in 3 months" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "за 3 місяці"
+          }
+        }
+      }
+    },
+    "in 6 months" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "за 6 місяців"
+          }
+        }
+      }
+    },
+    "in a year" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "за рік"
+          }
+        }
+      }
+    },
+    "in the last month" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "за останній місяць"
+          }
+        }
+      }
+    },
+    "left" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "лишилось"
+          }
+        }
+      }
+    },
+    "of" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "з"
+          }
+        }
+      }
+    },
+    "over" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "понад ліміт"
+          }
+        }
+      }
+    },
+    "owed" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "борг"
+          }
+        }
+      }
+    },
+    "since you started" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "відтоді, як ви почали"
+          }
+        }
+      }
+    },
+    "spent today" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "витрачено сьогодні"
+          }
+        }
+      }
+    },
+    "“Log an expense in Money List”" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«Log an expense in Money List»"
+          }
+        }
+      }
+    },
+    "“What can I spend today in Money List”" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«What can I spend today in Money List»"
+          }
+        }
+      }
+    },
+    "“Write in Money List”" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«Write in Money List»"
+          }
+        }
+      }
+    },
+    "“coffee 4.50”, “taxi 120 yesterday” — saved and categorized in one line." : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«кава 45», «таксі 120 вчора» — запис із категорією в один рядок."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
